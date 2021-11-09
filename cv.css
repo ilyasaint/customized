@@ -1,0 +1,87 @@
+*   {  
+        background-color: rgb(208, 223, 224);
+        font-family: calibri;
+    }
+
+#titre
+    {
+        text-align: center;
+        opacity: 0.9;
+        
+        
+
+    }
+
+
+.id
+    {
+        font-size: 17x;
+        font-weight: bold;
+    }
+
+.n
+    {
+        font-style: italic;    
+        color: rgb(97, 82, 163);
+    }
+
+.Age, .Adresse, .Postale
+    {
+        font-size: 15px;
+
+    }
+
+#Mail
+    {
+        text-decoration: underline;
+    }
+
+.el
+    {
+        opacity: 0.6;
+        
+        border : 3px Black ridge ;
+    }
+.ell
+    {
+        
+        text-align: center;
+       
+    }    
+
+.sections
+    {
+        color: rgb(158, 128, 63);
+        font-size: 25px;
+    }
+
+.stitre
+    {
+        font-size: 20px;
+        color: rgb(126, 102, 102);
+    }
+
+.annee
+    {
+        text-decoration: underline;
+
+    }
+
+.spa2
+    {
+        
+        text-align: right;
+
+    }
+.enc
+    {
+        
+        border : 1px #3f1818 ridge ;
+
+    }  
+  li
+  {
+
+    font-style: normal   ;
+
+  }
